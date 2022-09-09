@@ -203,6 +203,7 @@ def main():
             user_input = user_input.lower()
 
         # Pointer for the "position" of raw data
+        # Note: this pointer will keep moving
         i = 0
         while True:
             if user_input.lower() == 'yes':
