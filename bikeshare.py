@@ -189,6 +189,7 @@ def main():
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
+        # Call those functions to calculate corresponding statistics
         time_stats(df)
         station_stats(df)
         trip_duration_stats(df)
