@@ -198,9 +198,9 @@ def main():
         # to see the raw data
         enter = ['yes', 'no']
         user_input = input('Would you like to see raw data? (yes, or no)')
-        while user_input.lower() not in enter:
+        while user_input.casefold() not in enter:
             user_input = input('Wrong input! Please enter yes or no')
-            user_input = user_input.lower()
+            user_input = user_input.casefold()
 
         # Pointer for the "position" of raw data
         # Note: this pointer will keep moving
