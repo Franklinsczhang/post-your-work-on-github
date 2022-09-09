@@ -10,6 +10,7 @@ that will answer some statistical questions from users.
 
 ### Files used
 The corresponding csv files for the bike share data for those three cities.
+(Those files will not be uploaded to Github repo because of the size)
 
 ### Credits
 Udacity's project Q&A is very helpful to this project.
