@@ -4,10 +4,12 @@
 Explore US bike share
 
 ### Description
-Describe what your project is about and what it does
+In this project, we need to explore data related to bike share system for three major cities
+in US - Chicago, New York City, and Washington. The code in bikeshare.py is an interactive program
+that will answer some statistical questions from users.
 
 ### Files used
-Include the files used
+The corresponding csv files for the bike share data for those three cities.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity's project Q&A is very helpful to this project.
